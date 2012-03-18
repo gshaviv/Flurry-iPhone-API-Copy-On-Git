@@ -1,6 +1,10 @@
-Flurry iPhone SDK v3.0.8
-Build: 76
-Released: 2/15/12
+Flurry iPhone SDK v3.0.9
+Build: 78
+Released: 3/9/12
+
+Release notes for v3.0.9:
+------------------------------------------------
+Maintenance build to improve performance
 
 Release notes for v3.0.8:
 ------------------------------------------------

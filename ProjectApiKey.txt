@@ -1,2 +1,0 @@
-Project: houzz
-API Key: UHSJSU2WL437EXQHYST3
